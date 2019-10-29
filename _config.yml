@@ -1,6 +1,6 @@
 # Site
 #title:              Moon
-bio:                'Welcome to Jiaxuan's homepage.'
+#bio:                'Welcome to Jiaxuan's homepage.'
 description:        "Hello, world!"
 reading_time:       true
 words_per_minute:   200
