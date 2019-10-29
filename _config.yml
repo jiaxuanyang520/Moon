@@ -37,11 +37,11 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              jiaxuanyang556@gmail.com 
 #twitter:           username
 facebook:           jiaxuan.yang.58
 github-url:         jiaxuanyang520
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:         username
@@ -55,7 +55,7 @@ github-url:         jiaxuanyang520
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-weibo:              Animus_Yang
+#weibo:             username
 #flickr:            username
 #codepen:           username
 #keybase:           username
