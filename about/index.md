@@ -23,6 +23,7 @@ Jiaxuan Yang is a senior student majoring in Mechanical Engineering in Harbin In
 ## Contact
 
 Email: jiaxuanyang556@gmail.com
+
 WeChat: HIT-Yang
       
 [Go Back](https://jiaxuanyang520.github.io){: .btn}
