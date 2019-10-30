@@ -6,19 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Moon is a minimal, one column jekyll theme.</center>
-
-## Biography
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center>I'm Jiaxuan Yang.Welcome to my homepage!</center>
 
 ## Picture
 
@@ -28,10 +16,13 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Biography
+
+Jiaxuan Yang is a senior student majoring in Mechanical Engineering in Harbin Institute of Technology.
 
 ## Contact
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+Email: jiaxuanyang556@gmail.com
+WeChat: HIT-Yang
       
 [Go Back](https://jiaxuanyang520.github.io){: .btn}
