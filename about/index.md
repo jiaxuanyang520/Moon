@@ -8,13 +8,13 @@ comments: false
     
 <center>I'm Jiaxuan Yang.Welcome to my homepage!</center>
 
-## Picture
+## Photos
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Photos of me" cols=2 %}
 
 ## Biography
 
@@ -22,7 +22,7 @@ Jiaxuan Yang is a senior student majoring in Mechanical Engineering in Harbin In
 
 ## Contact
 
-*Email: jiaxuanyang556@gmail.com
-*WeChat: HIT-Yang
+Email: jiaxuanyang556@gmail.com
+WeChat: HIT-Yang
       
 [Go Back](https://jiaxuanyang520.github.io){: .btn}
